@@ -1,6 +1,8 @@
-### Olá, eu sou a Marione!
+### Olá, eu sou a Marione! / Hello, I am Marione!
 - Atualmente estou aprendendo HTML5, CSS e JavaScript.
+- Futura aluna da Laboratoria.
 - I am currently learning HTML5, CSS and JavaScript.
+- Future student at Laboratoria.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
