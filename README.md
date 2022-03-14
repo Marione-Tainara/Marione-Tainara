@@ -18,7 +18,10 @@
    <a href="https://github.com/Marione-Tainara"> <img align="right" alt="Marizinha1" height="150" style="border-radius:50px;"
        src="https://i.pinimg.com/564x/be/22/32/be2232911ea8e8d56027d9eb9378a0ee.jpg"> 
 </div>
-
-
+ 
+<div><br>
+  <a href = "mailto:mari.tainara@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/marione-tainara-da-sp/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+ </div>
 
   
