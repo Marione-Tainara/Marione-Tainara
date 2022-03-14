@@ -14,7 +14,7 @@
   <img align="center" alt="Mari-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="mari-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="right" alt="Marizinha1" height="150" style="border-radius:50px;"
-       src="https://i.pinimg.com/originals/e8/61/6a/e8616a622c61f65bc65b6b0baabcc9ac.jpg"> 
+       src="https://i.pinimg.com/564x/be/22/32/be2232911ea8e8d56027d9eb9378a0ee.jpg"> 
        
     
 </div>
