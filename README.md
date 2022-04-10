@@ -50,10 +50,18 @@
 																		      
 </div>
 																		     
------		
-![Snake animation](https://github.com/Marione-Tainara/mar/blob/output/github-contribution-grid-snake.svg)																    
+-----	
+																		      
+						
+																		      
 																		     
 <div>
       <p align= "center">Number of visitors</p> 
      <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Marione-Tainara}/count.svg"/></p> 
 </div>
+													      
+													      
+													      
+													      
+													      
+ ![Snake animation](https://github.com/Marione-Tainara/Marione-Tainara/blob/output/github-contribution-grid-snake.svg)	
