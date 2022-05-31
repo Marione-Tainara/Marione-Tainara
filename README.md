@@ -16,12 +16,15 @@
 
 
 --------------------------------------------------
+
 <div align="center">
+ 
+<details open align="center">
+  <summary>⚙ <b>Estatísticas do GitHub</b>: </summary>
 
-  ![Marione Pereira´s GitHub stats](https://github-readme-stats.vercel.app/api?username=Marione-Tainara&show_icons=true&theme=highcontrast) <br>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Marione-Tainara&show_icons=true&locale=pt-br&theme=highcontrast" alt="Marione-Tainara" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Marione-Tainara&show_icons=true&locale=pt-br&layout=compact&theme=highcontrast" alt="Marione-Tainara" width="495"/></p>
 
-   <img height="129em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marione-Tainara&layout=compact&langs_count=7&theme=highcontrast"/><br>
-	
   <img width="500em" src="https://github-readme-streak-stats.herokuapp.com/?user=Marione-Tainara&include_all_commits=true&hide_border=true&theme=highcontrast"/><br>
 
 </div>
