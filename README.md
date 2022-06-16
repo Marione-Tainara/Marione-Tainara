@@ -21,8 +21,9 @@
  
 <details open align="center">
   <summary>⚙ <b>Estatísticas do GitHub</b>: </summary>
+	
+![Marione's GitHub stats](https://github-readme-stats.vercel.app/api?username=Marione-Tainara&=true&theme=prussian)
 
-<img height= "190em" src="https://github-readme-stats.vercel.app/api?username=Marione-Tainara&show_icons=true&theme=prussian"/>
 	
   <img width="500em" src="https://github-readme-streak-stats.herokuapp.com/?user=Marione-Tainara&include_all_commits=true&hide_border=true&theme=prussian"/><br>
 
