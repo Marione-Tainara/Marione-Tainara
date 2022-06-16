@@ -22,9 +22,7 @@
 <details open align="center">
   <summary>⚙ <b>Estatísticas do GitHub</b>: </summary>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Marione-Tainara&show_icons=true&locale=pt-br&theme=highcontrast" alt="Marione-Tainara" /></p>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Marione-Tainara&show_icons=true&locale=pt-br&layout=compact&theme=highcontrast" alt="Marione-Tainara" width="495"/></p>
-
+<img height= "180em" src="https://github-readme-stats.vercel.app/api?username=Marione-Tainara&show_icons=true&theme=highcontrast"/>
   <img width="500em" src="https://github-readme-streak-stats.herokuapp.com/?user=Marione-Tainara&include_all_commits=true&hide_border=true&theme=highcontrast"/><br>
 
 </div>
@@ -52,19 +50,12 @@
  <img align="center"  alt=trello" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/trello/trello-plain.svg">
 																		      
 </div>
-																		     
+																	     
 -----	
-																		      
-						
-																		      
-																		     
+															     																		     
 <div>
       <p align= "center">Number of visitors</p> 
      <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Marione-Tainara}/count.svg"/></p> 
 </div>
-													      
-													      
-													      
-													      
-													      
+														      
  ![Snake animation](https://github.com/Marione-Tainara/Marione-Tainara/blob/output/github-contribution-grid-snake.svg)	
