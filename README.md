@@ -18,29 +18,22 @@
 --------------------------------------------------
 
 <div align="center">
- 
-<details open align="center">
-  <summary>⚙ <b>Estatísticas do GitHub</b>: </summary>
-	
-![Marione's GitHub stats](https://github-readme-stats.vercel.app/api?username=Marione-Tainara&=true&theme=prussian)
-
-	
   <img width="500em" src="https://github-readme-streak-stats.herokuapp.com/?user=Marione-Tainara&include_all_commits=true&hide_border=true&theme=prussian"/><br>
-
 </div>
 
 ----
 ### 🛠  Tech Stack:
 <div><br>
- <img align="center"  alt="VScode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
+<img align="center"  alt="VScode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
 <img align="center"  alt="atom" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/atom/atom-original.svg">
 <img align="center"  alt="firebase" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg">	
 <img align="center"  alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
- <img align="center"  alt="Jest" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg">
+<img align="center"  alt="Jest" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg">
 <img align="center"  alt="nodejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  <img align="center"  alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-  <img align="center"  alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center"  alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">  
+<img align="center"  alt="React" height="30" width="40" src= https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg>
+<img align="center"  alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+<img align="center"  alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+ <img align="center"  alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">  
 </div>
 
 
