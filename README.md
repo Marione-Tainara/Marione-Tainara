@@ -1,9 +1,9 @@
 ### Hello, I am Marione! Welcome!  :smile:
 <img align="right" alt="Marizinha1" height="150" style="border-radius:50px;" src="https://i.pinimg.com/564x/be/22/32/be2232911ea8e8d56027d9eb9378a0ee.jpg"> 
 
-- 🎯 I’m an administrative Assistant in career transition to technology.
-- 📚 I’m currently learning React.js.
-- 🤓 I’m interested to learn Back-end.
+- 🎯 I am a technology analyst trainee at Solfacil.
+- 📚 I’m currently learning Cypress.
+- 🤓 I’m interested to learn Back-end e tests.
 - 🇺🇸 🇫🇷 I’m learning English and would like to learn French. 
 
 ###  📫 How to reach me:
