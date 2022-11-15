@@ -2,7 +2,7 @@
 <img align="right" alt="Marizinha1" height="150" style="border-radius:50px;" src="https://i.pinimg.com/564x/be/22/32/be2232911ea8e8d56027d9eb9378a0ee.jpg"> 
 
 - 🎯 I am a technology analyst trainee at Solfacil.
-- 📚 I’m currently learning Cypress.
+- 📚 I’m currently learning Cypress, and about visual regression testing and I will start studying Elixir.
 - 🤓 I’m interested to learn Back-end e tests.
 - 🇺🇸 🇫🇷 I’m learning English and would like to learn French. 
 
@@ -34,6 +34,8 @@
 <img align="center"  alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
 <img align="center"  alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
  <img align="center"  alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">  
+</div>
+ <img align="center"  alt="MYSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">  
 </div>
 
 
