@@ -1,8 +1,8 @@
 ### Hello, I am Marione! Welcome!  :smile:
 <img align="right" alt="Marizinha1" height="150" style="border-radius:50px;" src="https://i.pinimg.com/564x/be/22/32/be2232911ea8e8d56027d9eb9378a0ee.jpg"> 
 
-- 🎯 I am a technology analyst trainee at Solfacil.
-- 📚 I’m currently learning Cypress, and about visual regression testing , and Python.
+- 🎯 I was a technology analyst trainee at Solfacil. I worked in the quality area with focus on manual and automated (with Cypress) tests 
+- 📚 I’m currently learning Cypress and Python.
 - 🤓 I’m interested to learn Back-end e tests.
 - 🇺🇸 🇫🇷 I’m learning English and would like to learn French. 
 
