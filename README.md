@@ -1,10 +1,17 @@
+<img align="cnter" alt="Marizinha1" height="90%" width="100%"  src="./img/capa.jpg"> 
+
+
+
+---
 ### Hello, I am Marione! Welcome!  :smile:
-<img align="right" alt="Marizinha1" height="150" style="border-radius:50px;" src="https://i.pinimg.com/564x/be/22/32/be2232911ea8e8d56027d9eb9378a0ee.jpg"> 
+
+<img align="right" alt="Marizinha1" height="100" width="100" style="border-radius: 60px"  src="./img/marione.png"> 
 
 - 🎯 I was a technology analyst trainee at Solfacil. I worked in the quality area with focus on manual and automated (with Cypress) tests 
 - 📚 I’m currently learning Next.JS, Sass and Styled-component.
 - 🤓 I’m interested to learn Back-end e tests.
 - 🇺🇸 🇫🇷 I’m learning English and would like to learn French. 
+
 
 ###  📫 How to reach me:
 <div>
@@ -12,6 +19,8 @@
     <a href="https://www.linkedin.com/in/marione-tainara-da-sp/" target="_blank"><img  aligh="center" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
     <a href="https://t.me/marionepereira" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
 </div>
+
+
 
 
 
