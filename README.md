@@ -32,7 +32,11 @@
 </div>
 
 ---
+### 🛠 Test tool :
 
+<img align="center"  alt="Jest" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg">
+
+---
 
 ### 🛠 Design tool :
 <div>
@@ -42,10 +46,17 @@
  
 ---
 ### 🛠  Tech Stack:
+
+<img align="center"  alt="Jest" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg">
+ <img align="center"  alt="K6" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/k6/k6-original.svg">  
+ 
+ <img align="center"  alt="Cypress" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cypressio/cypressio-original.svg">  
+ 
+ <img align="center"  alt="Postman" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg">
+
 <div><br>
 
 
-<img align="center"  alt="Jest" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg">
 
 <img align="center"  alt="nodejs" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
 
@@ -59,11 +70,7 @@
 
 <img align="center"  alt="MYSQL" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">  
 
- <img align="center"  alt="K6" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/k6/k6-original.svg">  
- 
- <img align="center"  alt="Cypress" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cypressio/cypressio-original.svg">  
- 
- <img align="center"  alt="Postman" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg">
+
  
 <img align="center"  alt="jira" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original-wordmark.svg">
 
