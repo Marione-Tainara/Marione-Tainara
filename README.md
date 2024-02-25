@@ -51,9 +51,6 @@
 ### 🛠  Tech Stack:
 
 <div><br>
-
- 
-
  
  <img align="center"  alt="Postman" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg">
 
