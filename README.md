@@ -25,16 +25,16 @@
 ### 🛠 Design tool :
 <div>
 <img align="center"  alt="Figma" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
-<img align="center"  alt="Canva" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg">	
-	
+<img align="center"  alt="Canva" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg">		
 </div>
  
 ---
 ### 🛠  Tech Stack:
 <div><br>
 <img align="center"  alt="VScode" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
-<img align="center"  alt="atom" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/atom/atom-original.svg">
+<img align="center"  alt="atom" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg">
 <img align="center"  alt="Git" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+<img align="center"  alt="GitLab" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/trello/trello-original.svg">
 <img align="center"  alt="Jest" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg">
 <img align="center"  alt="nodejs" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
 <img align="center"  alt="React" height="40" width="40" src= https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg>
@@ -47,13 +47,10 @@
  <img align="center"  alt="Postman" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg">
 <img align="center"  alt="jira" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original-wordmark.svg">
 <img align="center"  alt="confluence" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/confluence/confluence-original-wordmark.svg">	
-<img align="center"  alt="trello" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/trello/trello-original.svg">
+<img align="center"  alt="trello" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/trello/trello-original.svg">	
 </div>
 
 
-
-
-</div>
 																	     
 -----	
 															     																		     
