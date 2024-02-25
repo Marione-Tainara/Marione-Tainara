@@ -23,7 +23,7 @@
 
 
 ---
-### 🛠  Quality Assurance tools:
+### 🛠  Quality Assurance and Project Management tools:
 
 <div>
  <img align="center"  alt="K6" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/k6/k6-original.svg">  
@@ -36,7 +36,7 @@
 </div>
 
 ---
-### 🛠  :
+### 🛠 Design tool :
 <div>
 <img align="center"  alt="Figma" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
 <img align="center"  alt="Canva" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg">	
