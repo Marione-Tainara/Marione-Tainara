@@ -32,11 +32,12 @@
 </div>
 
 ---
+
 ### 🛠 Test tool :
 
 <img align="center"  alt="Jest" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg">
 
----
+-------
 
 ### 🛠 Design tool :
 <div>
@@ -44,7 +45,7 @@
 <img align="center"  alt="Canva" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg">		
 </div>
  
----
+-------
 ### 🛠  Tech Stack:
 
 <img align="center"  alt="Jest" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg">
