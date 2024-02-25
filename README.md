@@ -51,7 +51,7 @@
 ### 🛠  Quality Assurance tools:
 
  <img align="center"  alt="K6" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/k6/k6-original.svg">  
- <img align="center"  alt="Cypres" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cypressio/cypressio-original.svg">  
+ <img align="center"  alt="Cypress" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cypressio/cypressio-original.svg">  
 
 
  
