@@ -45,16 +45,17 @@
  <img align="center"  alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">  
 </div>
  <img align="center"  alt="MYSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">  
-</div>
 
-
-### 🛠 Prototyping and organizational tools:
-<div><br>
- <img align="center"  alt="Figma" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
+  <img align="center"  alt="Figma" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
 <img align="center"  alt="Canva" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg">	
  <img align="center"  alt="jira" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original-wordmark.svg">
  <img align="center"  alt="confluence" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/confluence/confluence-original-wordmark.svg">	
   <img align="center"  alt="trello" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/trello/trello-original.svg">
+</div>
+
+
+
+
 </div>
 																	     
 -----	
