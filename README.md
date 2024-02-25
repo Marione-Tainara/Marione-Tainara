@@ -28,7 +28,11 @@
 <div>
  <img align="center"  alt="K6" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/k6/k6-original.svg">  
  <img align="center"  alt="Cypress" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cypressio/cypressio-original.svg">  
- <img align="center"  alt="Postman" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg">  
+ <img align="center"  alt="Postman" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg">
+<img align="center"  alt="jira" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original-wordmark.svg">
+ <img align="center"  alt="confluence" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/confluence/confluence-original-wordmark.svg">	
+  <img align="center"  alt="trello" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/trello/trello-original.svg">
+	
 </div>
  
 
@@ -47,9 +51,7 @@
  <img align="center"  alt="MYSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">  
   <img align="center"  alt="Figma" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
 <img align="center"  alt="Canva" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg">	
- <img align="center"  alt="jira" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original-wordmark.svg">
- <img align="center"  alt="confluence" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/confluence/confluence-original-wordmark.svg">	
-  <img align="center"  alt="trello" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/trello/trello-original.svg">
+
 </div>
 
 
