@@ -28,7 +28,7 @@
 <img align="center"  alt="VScode" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">	
 <img align="center"  alt="GitLab" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg">	
 <img align="center"  alt="Git" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">	
-<img align="center"  alt="Codepen" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/codepen/codepen-original.svg">
+<img align="center"  alt="Codepen" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/codepen/codepen-original-wordmark.svg">
 <img align="center"  alt="Github" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">		
 </div>
 
