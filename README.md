@@ -50,7 +50,8 @@
 ---
 ### 🛠  Quality Assurance tools:
 
-
+ <img align="center"  alt="K6" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/k6/k6-original.svg">  
+ <img align="center"  alt="Cypres" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cypressio/cypressio-original.svg">  
 
 
  
@@ -59,8 +60,8 @@
  <img align="center"  alt="Figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
 <img align="center"  alt="Canva" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg">	
  <img align="center"  alt="trello" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/trello/trello-plain.svg">
- <img align="center"  alt="trello" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original-wordmark.svg">
- <img align="center"  alt="trello" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/confluence/confluence-original-wordmark.svg">									      
+ <img align="center"  alt="jira" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original-wordmark.svg">
+ <img align="center"  alt="confluence" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/confluence/confluence-original-wordmark.svg">									      
 </div>
 																	     
 -----	
