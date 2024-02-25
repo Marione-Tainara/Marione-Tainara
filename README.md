@@ -50,8 +50,18 @@
 <img align="center"  alt="Figma" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
 <img align="center"  alt="Canva" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg">		
 </div>
+
+----
+### 🛠  Management and Organization of projects:
+
+<div>
+<img align="center"  alt="jira" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original-wordmark.svg">
+<img align="center"  alt="confluence" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/confluence/confluence-original-wordmark.svg">
+<img align="center"  alt="trello" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/trello/trello-original.svg">	
+</div>
  
 -------
+
 ### 🛠  Tech Stack:
 
 <div><br>
@@ -62,14 +72,13 @@
 <img align="center"  alt="HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 <img align="center"  alt="CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">  
 <img align="center"  alt="MYSQL" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">  
-<img align="center"  alt="jira" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original-wordmark.svg">
-<img align="center"  alt="confluence" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/confluence/confluence-original-wordmark.svg">
-<img align="center"  alt="trello" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/trello/trello-original.svg">	
+
 </div>
 
 
 																	     
------	
+-----
+
 															     																		     
 <div>
       <p align= "center">Number of visitors</p> 
