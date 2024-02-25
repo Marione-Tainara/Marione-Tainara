@@ -26,16 +26,12 @@
 ### 🛠 Versioning and code editing tools 
 
 <div><br>
-<img align="center"  alt="VScode" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
-	
-<img align="center"  alt="atom" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg">
-	
+<img align="center"  alt="VScode" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">	
+<img align="center"  alt="atom" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg">	
 <img align="center"  alt="Git" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">	
-
-<img align="center"  alt="GitLab" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/trello/trello-original.svg">
 </div>
 
-
+---
 ### 🛠 Design tool :
 <div>
 <img align="center"  alt="Figma" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
