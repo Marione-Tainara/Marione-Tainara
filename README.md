@@ -21,15 +21,6 @@
 </div>
 
 
-
-
-
---------------------------------------------------
-
-<div align="center">
-  <img width="500em" src="https://github-readme-streak-stats.herokuapp.com/?user=Marione-Tainara&include_all_commits=true&hide_border=true&theme=prussian"/><br>
-</div>
-
 ----
 ### 🛠  Tech Stack:
 <div><br>
@@ -47,6 +38,7 @@
  <img align="center"  alt="MYSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">  
 </div>
 
+ ![Snake animation](https://github.com/Marione-Tainara/Marione-Tainara/blob/output/github-contribution-grid-snake.svg)	
 ---
 ### 🛠  Quality Assurance tools:
 
@@ -72,4 +64,4 @@
 </div>
 
 		    
- ![Snake animation](https://github.com/Marione-Tainara/Marione-Tainara/blob/output/github-contribution-grid-snake.svg)	
+
