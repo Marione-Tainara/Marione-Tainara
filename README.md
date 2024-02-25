@@ -26,31 +26,31 @@
 ### 🛠  Quality Assurance tools:
 
 <div>
- <img align="center"  alt="K6" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/k6/k6-original.svg">  
+ <img align="center"  alt="K6" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/k6/k6-original.svg">  
  <img align="center"  alt="Cypress" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cypressio/cypressio-original.svg">  
  <img align="center"  alt="Postman" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg">
 <img align="center"  alt="jira" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original-wordmark.svg">
- <img align="center"  alt="confluence" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/confluence/confluence-original-wordmark.svg">	
-  <img align="center"  alt="trello" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/trello/trello-original.svg">
+<img align="center"  alt="confluence" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/confluence/confluence-original-wordmark.svg">	
+<img align="center"  alt="trello" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/trello/trello-original.svg">
 	
 </div>
  
 
 ### 🛠  Tech Stack:
 <div><br>
-<img align="center"  alt="VScode" height="30" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
-<img align="center"  alt="atom" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/atom/atom-original.svg">
-<img align="center"  alt="firebase" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg">	
-<img align="center"  alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-<img align="center"  alt="Jest" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg">
-<img align="center"  alt="nodejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-<img align="center"  alt="React" height="30" width="40" src= https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg>
-<img align="center"  alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-<img align="center"  alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
- <img align="center"  alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">  
- <img align="center"  alt="MYSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">  
-  <img align="center"  alt="Figma" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
-<img align="center"  alt="Canva" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg">	
+<img align="center"  alt="VScode" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
+<img align="center"  alt="atom" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/atom/atom-original.svg">
+<img align="center"  alt="firebase" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg">	
+<img align="center"  alt="Git" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+<img align="center"  alt="Jest" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg">
+<img align="center"  alt="nodejs" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+<img align="center"  alt="React" height="60" width="60" src= https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg>
+<img align="center"  alt="Js" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+<img align="center"  alt="HTML" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+<img align="center"  alt="CSS" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">  
+<img align="center"  alt="MYSQL" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">  
+<img align="center"  alt="Figma" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
+<img align="center"  alt="Canva" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg">	
 
 </div>
 
