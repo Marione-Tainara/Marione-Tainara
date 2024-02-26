@@ -9,7 +9,7 @@
 
 - 🎯 I was a technology analyst trainee at Solfacil. I worked in the quality area with focus on manual and automated (with Cypress) tests 
 - 📚 I’m currently learning Next.JS, Sass and Styled-components.
-- 🤓 I’m interested to learn Back-end e tests.
+- 🤓 I’m interested in learning Back-end and tests.
 - 🇺🇸 🇫🇷 I’m learning English. 
 
 
